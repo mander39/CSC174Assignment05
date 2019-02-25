@@ -3,13 +3,13 @@
 	<!-- Images you pick go here -->
 	<div class="slides" data-u="slides">
 		<div>
-			<img data-u="image" src="images/001.jpg" />
+			<img data-u="image" src="images/001.jpg" alt="placeholder"/>
 		</div>
 		<div>
-			<img data-u="image" src="images/002.jpg" />
+			<img data-u="image" src="images/002.jpg" alt="placeholder"/>
 		</div>
 		<div>
-			<img data-u="image" src="images/003.jpg" />
+			<img data-u="image" src="images/003.jpg" alt="placeholder"/>
 		</div>
 	</div>
 	<!-- Bullet Navigator -->
