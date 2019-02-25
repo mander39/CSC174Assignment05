@@ -7,7 +7,7 @@ jssor_1_slider_init = function() {
             ];
             var jssor_1_options = {
               $AutoPlay: 1,
-              $SlideDuration: 800,
+              $SlideDuration: 1200,   // This is the speed of the slide animation 
               $SlideEasing: $Jease$.$OutQuint,
               $CaptionSliderOptions: {
                 $Class: $JssorCaptionSlideo$,
