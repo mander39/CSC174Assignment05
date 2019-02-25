@@ -15,3 +15,9 @@ The Domain of this assignment are the three classmates, who of which share home 
 The information will be divided into headings and have their information displayed chronologically
 ### Choreography Explanation
 I have arranged the topics in order of which would have come first in their lives. It starts at their home country, because that is the thing that makes one student the odd one out. It then goes to hometown, precollege experience, current college experience, and ends off with the extra curriculars they've done in college
+
+### Slider Notes - Michael 
+To change the images go into the slider.inc file. 
+The code didnt come with any documentation, so look for these (ctrl+F) varibles in the source code (jssor.slider) to adjust the behavior:
+- $PauseOnHover = on by default (slideshow pauses on mouseover)
+- $AutoPlayInterval = 3 seconds by default, I changed it to 6 seconds since 3 seemed too fast. 
