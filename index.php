@@ -4,21 +4,21 @@
 <?php include 'inc/html-nav.inc'; ?>
 <?php include 'inc/html-slider.inc'; ?>
 
-<a href="genessis.html">
+<a href="genessis.php">
     <h2>Genessis Galindo</h2>
     <img src="images/genessis.jpg" alt="Genessis Galindo">
     <h3>Home Country</h3>
     <div>United States</div>
 </a>
 
-<a href="leo.html">
+<a href="leo.php">
     <h2>Leonard Koblence</h2>
     <img src="images/leo.jpg" alt="leo">
     <h3>Home Country</h3>
     <div>United States</div>
 </a>
 
-<a href="qianwen.html">
+<a href="qianwen.php">
     <h2>Qianwen Fu</h2>
     <img src="images/qianwen.jpeg" alt="a picture of Qianwen Fu">
     <h3>Home Country</h3>
