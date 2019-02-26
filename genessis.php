@@ -11,10 +11,10 @@
 
 <main>
 	<h2>Home Country</h2>
-		<div>United States</div>
+		<section>United States</section>
 
 	<h2>Hometown</h2>
-		<div>Los Angeles, CA</div>
+		<section>Los Angeles, CA</section>
 
 	<h2>Pre-College Life</h2>
 		<p>Before coming to the University of Rochester, I attended Canyon High School in California where I was involved in various extracurricular such as: Student Government, National Honor Society, English National Honor Society, Spirit Club, Chemistry Club, and a few others. I even founded a chapter of the Science National Honor Society at my school and at the time I believed I wanted to major in Chemistry.</p>

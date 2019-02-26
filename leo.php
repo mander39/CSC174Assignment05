@@ -11,10 +11,10 @@
 
 <main>
 	<h2>Home Country</h2>
-		<div>United States</div>
+		<section>United States</section>
 
 	<h2>Hometown</h2>
-		<div>Miami, FL</div>
+		<section>Miami, FL</section>
 
 	<h2>Pre-College Life</h2>
 		<p> In high school, I continued to play tennis and train hard to hopefully play at the varsity level in college. I also developed a love for computers and technology which was reflected in some classes I took on IT in high school. I tried to learn about topics like networking, system administration, and how data centers work. Finally, I applied for a internship at the New York Internet company as a data center technician. I worked there for a while installing and testing switches and servers in the data center. Every so often I got to go into the network operations center and learn from the senior systems administrators how they did their jobs. </p>
