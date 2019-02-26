@@ -8,21 +8,21 @@
     <h2>Genessis Galindo</h2>
     <img src="images/genessis.jpg" alt="Genessis Galindo">
     <h3>Home Country</h3>
-    <div>United States</div>
+    <section>United States</section>
 </a>
 
 <a href="leo.php" id="leonard">
     <h2>Leonard Koblence</h2>
     <img src="images/leo.jpg" alt="leo">
     <h3>Home Country</h3>
-    <div>United States</div>
+    <section>United States</section>
 </a>
 
 <a href="qianwen.php" id="qianwen">
     <h2>Qianwen Fu</h2>
     <img src="images/qianwen.jpeg" alt="a picture of Qianwen Fu">
     <h3>Home Country</h3>
-    <div>China</div>
+    <section>China</section>
 </a>
 
 <?php include 'inc/html-bottom.inc'; ?>
