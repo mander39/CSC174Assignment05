@@ -1,0 +1,81 @@
+/*
+    I followed the SMACSS CSS Architecture Mostly:
+
+
+*/
+
+/**************************
+Base Styles
+***************************/
+
+body {
+    display: grid;
+}
+
+nav {
+    grid-column: 3/4;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    margin-right: 15px;
+    display: inline;
+    padding: 10px;
+    background-color: green;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: black;
+}
+
+main {
+    grid-column: 1/4;
+    max-width: 960px;
+    width: 90%;
+    margin: auto;
+}
+
+a {
+    text-decoration: none;
+}
+/**************************
+Layout Styles
+***************************/
+
+#logo {
+    grid-column: 1/2;
+}
+
+#jssor_1 {
+    grid-column: 1/4;
+}
+
+#genessis {
+    grid-column: 1/2;
+}
+
+#leo {
+    grid-column: 2/3;
+}
+
+#qianwen {
+    grid-column: 3/4;
+}
+
+/**************************
+Modules Styles
+***************************/
+
+/**************************
+State Styles
+***************************/
+
+/**************************
+Theme Styles
+***************************/
