@@ -22,3 +22,7 @@ The code didnt come with any documentation, so look for these (ctrl+F) varibles 
 - $PauseOnHover = on by default (slideshow pauses on mouseover)
 - $AutoPlayInterval = 3 seconds by default, I changed it to 6 seconds since 3 seemed too fast. 
 - The "sections" with just country name in them should probably be h4s, w3c validator is throwing errors at those 
+
+### Validation Notes - Amanda
+- I checked the validation stuff this morning after doing the CSS and it is still throwing errors about the sections
+- It's also throwing an error about the font upload code even though that's exactly what Google fonts had me upload
