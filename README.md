@@ -14,7 +14,7 @@ The Domain of this assignment are the three classmates, who of which share home 
 ### Taxonomy Explanation
 Homepage will have h2s with the Students names, and under those a h3 with called Home country, a section with their country and image of the student.
 The individual pages will have a h1 with their names, h2s of home country, home town, precollege life, college life, and extra curriculars. The sub content for the first two are in sections, the next two are in p tags, and the last one is an ul containing li tags.
-On every page, the navigation is an unordered list at the top with li tags
+On every page, the navigation is an unordered list at the top with li tags. Lastly, there is a footer tag at the bottom of each page.
 ### Choreography Explanation
 I have arranged the topics in order of which would have come first in their lives. It starts at their home country, because that is the thing that makes one student the odd one out. It then goes to hometown, precollege experience, current college experience, and ends off with the extra curriculars they've done in college
 
