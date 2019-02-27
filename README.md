@@ -21,3 +21,4 @@ To change the images go into the slider.inc file.
 The code didnt come with any documentation, so look for these (ctrl+F) varibles in the source code (jssor.slider) to adjust the behavior:
 - $PauseOnHover = on by default (slideshow pauses on mouseover)
 - $AutoPlayInterval = 3 seconds by default, I changed it to 6 seconds since 3 seemed too fast. 
+- The "sections" with just country name in them should probably be h4s, w3c validator is throwing errors at those 
