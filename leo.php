@@ -1,20 +1,28 @@
 <?php include 'inc/html-top01.inc'; ?>
 <title>Lab 05 | Leonard L Koblence</title>
+</head>
+<body class="americanbackground">
 <?php include 'inc/html-top02.inc'; ?>
-	
-<header>
-	<h1>Leonard L Koblence</h1>
-	<img src="images/leo.jpg" alt="leo">
-</header>
 
 <?php include 'inc/html-nav.inc'; ?>
+	
+<aside class="america">
+	<h1>Leonard Koblence</h1>
+	<img src="images/leo.jpg" alt="leo">
+</aside>
 
-<main>
+<div id="homecountry" class="america">
 	<h2>Home Country</h2>
 		<section>United States</section>
+</div>
 
+<div id="hometown" class="america">
 	<h2>Hometown</h2>
 		<section>Miami, FL</section>
+</div>
+
+
+<main class="america">
 
 	<h2>Pre-College Life</h2>
 		<p> In high school, I continued to play tennis and train hard to hopefully play at the varsity level in college. I also developed a love for computers and technology which was reflected in some classes I took on IT in high school. I tried to learn about topics like networking, system administration, and how data centers work. Finally, I applied for a internship at the New York Internet company as a data center technician. I worked there for a while installing and testing switches and servers in the data center. Every so often I got to go into the network operations center and learn from the senior systems administrators how they did their jobs. </p>

@@ -12,7 +12,7 @@
     <section>United States</section>
 </a>
 
-<a href="leo.php" id="leonard" class="america">
+<a href="leo.php" id="leo" class="america">
     <h2>Leonard Koblence</h2>
     <img src="images/leo.jpg" alt="leo">
     <h3>Home Country</h3>

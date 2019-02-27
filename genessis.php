@@ -1,20 +1,27 @@
 <?php include 'inc/html-top01.inc'; ?>
 <title>Lab 05 | Genessis Galindo</title>
+</head>
+<body class="americanbackground">
 <?php include 'inc/html-top02.inc'; ?>
-		
-<header>
-	<h1>Genessis Galindo</h1>
-	<img src="images/genessis.jpg" alt="Genessis Galindo">
-</header>
 
 <?php include 'inc/html-nav.inc'; ?>
 
-<main>
+<aside class="america">
+	<h1>Genessis Galindo</h1>
+	<img src="images/genessis.jpg" alt="Genessis Galindo">
+</aside>
+
+<div id="homecountry" class="america">
 	<h2>Home Country</h2>
 		<section>United States</section>
+</div>
 
+<div id="hometown" class="america">
 	<h2>Hometown</h2>
 		<section>Los Angeles, CA</section>
+</div>
+
+<main class="america">
 
 	<h2>Pre-College Life</h2>
 		<p>Before coming to the University of Rochester, I attended Canyon High School in California where I was involved in various extracurricular such as: Student Government, National Honor Society, English National Honor Society, Spirit Club, Chemistry Club, and a few others. I even founded a chapter of the Science National Honor Society at my school and at the time I believed I wanted to major in Chemistry.</p>

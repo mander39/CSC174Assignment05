@@ -1,20 +1,27 @@
 <?php include 'inc/html-top01.inc'; ?>
 <title>Lab 05| Qianwen Fu</title>
+</head>
+<body class="chinesebackground">
 <?php include 'inc/html-top02.inc'; ?>
-
-<header>
-	<h1>Qianwen Fu</h1>
-	<img src="images/qianwen.jpeg" alt="a picture of Qianwen Fu">
-</header>
 
 <?php include 'inc/html-nav.inc'; ?>
 
-<main>
+<aside class="china">
+	<h1>Qianwen Fu</h1>
+	<img src="images/qianwen.jpeg" alt="a picture of Qianwen Fu">
+</aside>
+
+<div id="homecountry" class="china">
 	<h2>Home Country</h2>
 		<section>China</section>
+</div>
 
+<div id="hometown" class="china">
 	<h2>Hometown</h2>
 		<section>Guangdong</section>
+</div>
+
+<main class="china">
 
 	<h2>Pre-College Life</h2>
 		<p> I come from a small city in Guangdong Province, an area at Southeast China. A common stereotype says that people from there eat everything, especially their neighbors from Fujian Province. I would say this statement is totally untrustworthy, as we never have those crazy things in our bowls, but we indeed enjoy delicious cuisines and receive fewer pocket money than kids from other provinces. Although I moved to Beijing, a city has cold winter, with my family at the age of three, I feel that the love of sub-tropical climate is written in my genes. I still do not quite understand why I came to the UR, a place with extreme winters. Sometimes I wonder if I was cheated by the beautiful photo of UR’s summer on the admission booklet. Sometimes I really want to head to California or Florida when I see the photos from my friends studying there, but when I heard about the rigid general education credit requirement at their colleges, I believe the UR is still the best fit for me.</p>

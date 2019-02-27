@@ -1,3 +1,7 @@
+/*
+	This style sheet contains default styles for the slider which have remained largely unmodified.  Most of my unique styling exists in the other style sheet named styles.css.
+*/
+
 /*jssor slider loading skin spin css*/
 .jssorl-009-spin img {
 	animation-name: jssorl-009-spin;
