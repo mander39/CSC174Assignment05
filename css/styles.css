@@ -13,6 +13,7 @@
 /**************************
 Base Styles
 ***************************/
+@import url('https://fonts.googleapis.com/css?family=Calligraffitti|Open+Sans|Bitter');
 
 body {
     display: grid;
