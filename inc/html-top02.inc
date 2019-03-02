@@ -1,5 +1,5 @@
 
 <section id="logo">
-    <a href="index.php" class="america">Odd Student <span class="china">Out</span></a>
+    <h1> <a href="index.php" class="america">Odd Student <span class="china">Out</span></a></h1>
 </section>
 
