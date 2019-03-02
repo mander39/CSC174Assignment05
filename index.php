@@ -5,25 +5,12 @@
 
 <?php include 'inc/html-slider.inc'; ?>
 
-<a href="genessis.php" id="genessis" class="america">
-    <h2>Genessis Galindo</h2>
-    <img src="images/genessis.jpg" alt="Genessis Galindo">
-    <h3>Home Country</h3>
-    <section>United States</section>
-</a>
 
-<a href="leo.php" id="leo" class="america">
-    <h2>Leonard Koblence</h2>
-    <img src="images/leo.jpg" alt="leo">
-    <h3>Home Country</h3>
-    <section>United States</section>
-</a>
+<section class="america" id="weakpoint">2 Students are from the United States.</section>
 
 <a href="qianwen.php" id="qianwen" class="china">
-    <h2>Qianwen Fu</h2>
-    <img src="images/qianwen.jpeg" alt="a picture of Qianwen Fu">
-    <h3>Home Country</h3>
-    <section>China</section>
+    <h2>See the Odd One Out!</h2>
+    <section>Qianwen Fu - China</section>
 </a>
 
 <?php include 'inc/html-bottom.inc'; ?>
